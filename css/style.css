@@ -1,0 +1,82 @@
+#tarea{
+	font-family: "Nunito Bold"
+}
+
+header{
+	background-color:#A3C8BD;
+	border-bottom: 5px solid #119091;
+	padding: 30px 0;
+}
+
+#Sobre{
+	background-color: rgb(42, 140, 159);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#Sobre h3{
+	font-weight: 800;
+	text-align:center;
+	margin-top: 30px;
+}
+
+.foto{
+	padding-left: 70px;
+}
+
+#servicios {
+	text-align: center;
+	background-color: #A3C8BD;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#servicios i{
+	font-size: 60px;
+	padding-top: 7%;
+	padding-bottom: -6px;
+}
+
+#servicios h2{
+	font-family:"Poppins Bold";
+	font-weight: 800;
+	
+}
+#servicios h3{
+	margin-top: 10%;
+	
+}
+
+
+#portafolio{
+	text-align: center;
+	background-color: #F6F3EC;
+	padding-bottom: 30px;
+}
+
+#portafolio h3{
+	font-family: "Nunito Bold";
+}
+
+.boton{
+	background-color: #A3C8BD;
+	margin-top: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 100px;
+	padding-right: 100px;
+	font-size: 20px;
+	border-radius: 40px;
+}
+#portafolio h2{
+	padding: 30px;
+}
+
+#contacto{
+	background-color: rgb(42, 140, 159);
+}
+
+footer{
+	color: aliceblue;
+	background-color: black;
+}
